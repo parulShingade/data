@@ -4,7 +4,5 @@
   "password": "$2b$10$XDNZGvqSyDBVkkTG7osLCOi0IWxgponkp6XTGxiKq2fQFMpbrBtWu",
   "role": "admin",
   "photo": "",
-  "activeSessions": [
-    "1767107457489u0qhvg9yz"
-  ]
+  "activeSessions": []
 }
