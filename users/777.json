@@ -3,5 +3,8 @@
   "userName": "777",
   "password": "$2b$10$XDNZGvqSyDBVkkTG7osLCOi0IWxgponkp6XTGxiKq2fQFMpbrBtWu",
   "role": "admin",
-  "photo": ""
+  "photo": "",
+  "activeSessions": [
+    "1767107457489u0qhvg9yz"
+  ]
 }
