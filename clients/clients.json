@@ -1,0 +1,17 @@
+{
+  "clients": [
+    {
+      "id": "amish",
+      "name": "amish",
+      "coverImage": "clients/amish/haldi/1770016872490_Screenshot_(1).png",
+      "events": [
+        {
+          "eventName": "haldi",
+          "images": [
+            "clients/amish/haldi/1770016872490_Screenshot_(1).png"
+          ]
+        }
+      ]
+    }
+  ]
+}
