@@ -9,12 +9,12 @@
    "audioChapters": [
     {
       "id": 1,
-      "title": "परिचय",
+      "title": "Chapter1",
       "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/intro.mp3"
     },
      {
       "id": 2,
-      "title": "परिचय",
+      "title": "Chapter2",
       "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/intro2.mp3"
     }
   
