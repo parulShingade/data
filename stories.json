@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "👻 Haunted Train",
+    "folder": "haunted-train",
+    "meta": "Horror • 6 min",
+    "cover": "/covers/haunted.png"
+  },
+  {
+    "id": 2,
+    "title": "❤️ Midnight Love",
+    "folder": "midnight-love",
+    "meta": "Romance • 5 min",
+    "cover": "/covers/love.png"
+  },
+  {
+    "id": 3,
+    "title": "💪 Rise Again",
+    "folder": "rise-again",
+    "meta": "Motivation • 4 min",
+    "cover": "/covers/motivation.png"
+  }
+]
