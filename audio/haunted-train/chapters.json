@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "StrangeGirl",
+    "folder": "StrangeGirl",
+    "chapterCover": "/audio/haunted-train/StrangeGirl/chaptercover.jpg",
+    "audioCover": "/audio/haunted-train/StrangeGirl/Gemini_Generated_Image_mmpqjlmmpqjlmmpq.png",
+    "audio": "/audio/haunted-train/StrangeGirl/StrangeGirl.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Chapter 2",
+    "folder": "chapter-2",
+    "chapterCover": "/audio/haunted-train/chapter-2/chaptercover.jpg",
+    "audioCover": "/audio/haunted-train/chapter-2/audiocover.jpg",
+    "audio": "/audio/haunted-train/chapter-2/audio.mp3"
+  }
+]
