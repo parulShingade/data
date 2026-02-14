@@ -10,12 +10,12 @@
     {
       "id": 1,
       "title": "Chapter1",
-      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/intro.mp3"
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/chapter1.mp3"
     },
      {
       "id": 2,
       "title": "Chapter2",
-      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/intro2.mp3"
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/chapter2.mp3"
     }
   
   ]
