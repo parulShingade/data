@@ -16,7 +16,18 @@
       "id": 2,
       "title": "Chapter2",
       "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/chapter2.mp3"
+    },
+     {
+      "id": 3,
+      "title": "Chapter3",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/chapter3.mp3"
+    },
+     {
+      "id": 4,
+      "title": "Chapter4",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/chapter4.mp3"
     }
+     
   
   ]
 
