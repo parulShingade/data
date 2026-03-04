@@ -5,5 +5,78 @@
   "authorDescription": "",
   "category": "Generational Wealth (Hindi)",
   "cover": "https://raw.githubusercontent.com/parulShingade/data/main/books/1769623495163_लिगेसी मनी_ अपने जीवनकाल से परे समृद्धि का निर्माण कैसे करें । - गजेन्द्र एस. नायर.jpg",
-  "bookFile": "https://raw.githubusercontent.com/parulShingade/data/main/books/1769623501374_लिगेसी मनी_ अपने जीवनकाल से परे समृद्धि का निर्माण कैसे करें । - गजेन्द्र एस. नायर.epub"
+  "bookFile": "https://raw.githubusercontent.com/parulShingade/data/main/books/1769623501374_लिगेसी मनी_ अपने जीवनकाल से परे समृद्धि का निर्माण कैसे करें । - गजेन्द्र एस. नायर.epub",
+   "audioChapters": [
+   
+
+     {
+      "id": 1,
+      "title": "प्रस्तावना",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/1 Prastavna.mp3.mpeg"
+    },
+     {
+      "id": 2,
+      "title": "Chapter1",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/2 chapter 01.mp3.mpeg"
+    },
+     {
+      "id": 3,
+      "title": "Chapter2",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/3 chapter 02.mp3.mpeg"
+    },
+     {
+      "id": 4,
+      "title": "Chapter3",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/4 chapter 03.mp3.mpeg"
+    },
+     {
+      "id": 5,
+      "title": "Chapter4",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/5 chapter 04.mp3.mpeg"
+    },
+     {
+      "id": 6,
+      "title": "Chapter5",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/6 chapter 05.mp3.mpeg"
+    }, 
+  {
+      "id": 7,
+      "title": "Chapter6",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/7 chapter 06.mp3.mpeg"
+    },
+     {
+      "id": 8,
+      "title": "Chapter7",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/8 chapter 07.mp3.mpeg"
+    },
+     {
+      "id": 9,
+      "title": "Chapter8",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/9 chapter 08.mp3.mpeg"
+    },
+     {
+      "id": 10,
+      "title": "Chapter9",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/10 chapter 09.mp3.mpeg"
+    },
+     {
+      "id": 11,
+      "title": "Chapter10",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/11 chapter 10.mp3.mpeg"
+    },
+     {
+      "id": 12,
+      "title": "Chapter11",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/12 chapter 11.mp3.mpeg"
+    }
+    ,
+     {
+      "id": 13,
+      "title": "Chapter12",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/legecy_Hindhi/13 chapter 12.mp3.mpeg"
+    }
+  
+  ]
+
+
 }
