@@ -1,0 +1,17 @@
+{
+  "title": "The trial book",
+  "author": "dsff",
+  "bookDescription": "ds",
+  "authorDescription": "ddfdf",
+  "category": "",
+  "customCategory": "",
+  "cover": "https://raw.githubusercontent.com/parulShingade/data/main/books/1772871150941_552154392_18296121688270045_3011823657273678849_n.jpg",
+  "bookFile": "https://raw.githubusercontent.com/parulShingade/data/main/books/1772871150941_डिफॉल्ट अलाइव_ बिज़नेस सर्वाइवल प्रिंसिपल्स - कल्पेश मेहता.epub",
+  "audioChapters": [
+    {
+      "id": 1,
+      "title": "Chapter 1",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/1772871154027_Chapter1.mp3"
+    }
+  ]
+}
