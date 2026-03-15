@@ -1,0 +1,9 @@
+{
+  "id": "1773555765502-d8hxgu5lf",
+  "eventType": "EXAM_FINISHED",
+  "timestamp": "2026-03-15T06:22:45.502Z",
+  "userName": "Demo User",
+  "userEmail": "demo@apexexam.com",
+  "score": 48,
+  "category": "java"
+}
