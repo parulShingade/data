@@ -4,8 +4,5 @@
   "password": "$2b$10$.WgeSOGRa5oaCk84f/de/O3ovyIDQWLC5coP8F4zpG9loUND4cHsm",
   "role": "customer",
   "photo": "",
-  "activeSessions": [
-    "1774297659852yswjeon",
-    "17751450537928bjqhqw"
-  ]
+  "activeSessions": []
 }
