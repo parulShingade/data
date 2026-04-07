@@ -6,4 +6,93 @@
   "category": "Psychology (Hindi)",
   "cover": "https://raw.githubusercontent.com/parulShingade/data/main/books/1769626972051_दिलीप सेनगुप्ता.png",
   "bookFile": "https://raw.githubusercontent.com/parulShingade/data/main/books/1769626978337_वाई पीपल से यस_ निर्णयों को आकार देने वाली कालजयी मनोवैज्ञानिक शक्तियाँ - दिलीप सेनगुप्ता.epub"
+ ,"audioChapters": [
+   
+
+     {
+      "id": 1,
+      "title": "Prastavna",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/01 फ्रंट मैटर.mp3.mpeg"
+    },
+     {
+      "id": 2,
+      "title": "Chapter1",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 1 फैसलों के अनदेखे शिल्पकार निर्णय मनोविज्ञान की भूमिका.mp3.mpeg"
+    },
+     {
+      "id": 3,
+      "title": "Chapter2",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 2 सोच की दो इंजन — सिस्टम 1 और सिस्टम 2.mp3.mpeg"
+    },
+     {
+      "id": 4,
+      "title": "Chapter3",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 3 मानसिक शॉर्टकट की ताकत ह्यूरिस्टिक्स को समझना.mp3.mpeg"
+    },
+     {
+      "id": 5,
+      "title": "Chapter4",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 4 संज्ञानात्मक पक्षपात दिमाग की तयशुदा गलतियाँ.mp3.mpeg"
+    },
+     {
+      "id": 6,
+      "title": "Chapter5",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 5 रीसिप्रोसिटी का सिद्धांत एहसान का कर्ज.mp3.mpeg"
+    }, 
+  {
+      "id": 7,
+      "title": "Chapter6",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 6 सोशल प्रूफ की ताकत भीड़ के पीछे चलना.mp3.mpeg"
+    },
+     {
+      "id": 8,
+      "title": "Chapter7",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 7 कमी का सिद्धांत जो दुर्लभ है, उसकी क़ीमत ज़्यादा.mp3.mpeg"
+    },
+     {
+      "id": 9,
+      "title": "Chapter8",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 8 प्रामाणिकता का सिद्धांत विशेषज्ञों की बात मान लेना.mp3.mpeg"
+    },
+     {
+      "id": 10,
+      "title": "Chapter9",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 9 कमिटमेंट और निरंतरता का सिद्धांत आत्म-छवि की कड़ी.mp3 (2).mpeg"
+    },
+     {
+      "id": 11,
+      "title": "Chapter10",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 10 पसंद का सिद्धांत तालमेल की ताकत.mp3.mpeg"
+    },
+     {
+      "id": 12,
+      "title": "Chapter11",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 11 एकता का सिद्धांत समूह से जुड़ाव.mp3.mpeg"
+    }
+    ,
+     {
+      "id": 13,
+      "title": "Chapter12",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/Defaultwhy_people_say_yes_marathi_Alive_Hindhi/अध्याय 12 एंकरिंग और फ्रेमिंग-धारणाओं को आकार देना.mp3.mpeg"
+    },
+     {
+      "id": 14,
+      "title": "Chapter13",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/why_people_say_yes_marathi/अध्याय 13 कहानी सुनाना और भावनाएं - दिल और दिमाग—दोनों को जोड़ना.mp3.mpeg"
+    }
+    ,
+     {
+      "id": 15,
+      "title": "Chapter14",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/Defaultwhy_people_say_yes_marathi_Alive_Hindhi/अध्याय 14 चॉइस आर्किटेक्चर (चयन संरचना) बेहतर फैसलों के लिए डिजाइन.mp3.mpeg"
+    }
+     ,
+     {
+      "id": 16,
+      "title": "Chapter15",
+      "audio": "https://raw.githubusercontent.com/parulShingade/data/main/audio/audiobook/Defaultwhy_people_say_yes_marathi_Alive_Hindhi/अध्याय 15 टिकाऊ प्रभाव बनाना भरोसा, ईमानदारी, और उससे आगे.mp3.mpeg"
+    }
+  
+  ]
+
 }
